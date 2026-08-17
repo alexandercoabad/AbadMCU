@@ -2,7 +2,7 @@
 
 # Abad MCU
 
-An 8-bit Microcontroller
+An 8-bit Microcontroller based on TinyQV by Michael Bell
 
 ## What is Tiny Tapeout?
 
