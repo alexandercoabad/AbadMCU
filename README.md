@@ -1,12 +1,14 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Abad MCU
+## Abad MCU
 
 An 8-bit Microcontroller based on TinyQV of Michael Bell
 
-## What is Tiny Tapeout?
+## Layout
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
+<img width="1610" height="2258" alt="abadmcu" src="https://github.com/user-attachments/assets/8872787b-59e3-43e3-a724-1315b15d49fc" />
+
+3D viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/AbadMCU/tinytapeout.oas&pdk=sky130A
 
 To learn more and get started, visit https://tinytapeout.com.
 
