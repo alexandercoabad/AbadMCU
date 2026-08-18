@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-## Abad MCU
+## AbadMCU
 
 An 8-bit Microcontroller based on TinyQV of Michael Bell
 
